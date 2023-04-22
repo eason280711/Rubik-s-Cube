@@ -1,2 +1,2 @@
 # Rubik-s-Cube
- University Graduation Project
+University Graduation Project
